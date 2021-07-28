@@ -21,7 +21,7 @@ public class Switch {
 
             case "B":
                 yourPoint = 80;
-                System.out.println("당신의 점수는" + yourPoint);
+
                 break;
 
             case "C":
