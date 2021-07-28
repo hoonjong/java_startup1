@@ -1,3 +1,5 @@
+package bakjun;
+
 import java.util.Scanner;
 //백준 1001 번 문제
 

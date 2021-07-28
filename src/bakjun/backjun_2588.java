@@ -1,3 +1,4 @@
+package bakjun;
 
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package bakjun;
+
 import java.util.Scanner;
 
 public class scanexam_2 {
